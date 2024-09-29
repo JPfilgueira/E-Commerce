@@ -1,0 +1,110 @@
+[
+    {
+        "imagem": "<img src='https://static.vecteezy.com/ti/vetor-gratis/p3/4773704-rosto-de-uma-garota-com-um-sorriso-lindo-um-avatar-feminino-para-um-site-e-rede-social-vetor.jpg' width='600px'>",
+        "nome": "Ana Clara",
+        "idade": "29 anos",
+        "cpf": "12345678900",
+        "pais": "Brasileira",
+        "estado": "Estado - São Paulo",
+        "cidade": "Cidade - São Paulo"
+    },
+    {
+        "imagem": "<img src='https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-male-avatar-image-in-the-circle-image_2908803.jpg' width='600px'>",
+        "nome": "José Luiz Datena",
+        "idade": "67 anos",
+        "cpf": "47554085808",
+        "pais": "Brasileiro",
+        "estado": "Estado - São Paulo",
+        "cidade": "Cidade - Ribeirão Preto"
+    },
+    {
+        "imagem": "<img src='https://static.vecteezy.com/ti/vetor-gratis/p3/4773704-rosto-de-uma-garota-com-um-sorriso-lindo-um-avatar-feminino-para-um-site-e-rede-social-vetor.jpg' width='600px'>",
+        "nome": "Carla Silva",
+        "idade": "25 anos",
+        "cpf": "34567890122",
+        "pais": "Brasileira",
+        "estado": "Estado - Rio de Janeiro",
+        "cidade": "Cidade - Rio de Janeiro"
+    },
+    {
+        "imagem": "<img src='https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-male-avatar-image-in-the-circle-image_2908803.jpg' width='600px'>",
+        "nome": "Pablo Henrique Costa Marçal",
+        "idade": "37 anos",
+        "cpf": "55328770846",
+        "pais": "Brasileiro",
+        "estado": "Estado - Goiânia",
+        "cidade": "Cidade - Goiás"
+    },
+    {
+        "imagem": "<img src='https://static.vecteezy.com/ti/vetor-gratis/p3/4773704-rosto-de-uma-garota-com-um-sorriso-lindo-um-avatar-feminino-para-um-site-e-rede-social-vetor.jpg' width='600px'>",
+        "nome": "Elisa Pereira",
+        "idade": "31 anos",
+        "cpf": "56789012344",
+        "pais": "Brasileira",
+        "estado": "Estado - Paraná",
+        "cidade": "Cidade - Curitiba"
+    },
+    {
+        "imagem": "<img src='https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-male-avatar-image-in-the-circle-image_2908803.jpg' width='600px'>",
+        "nome": "Fernando Alves",
+        "idade": "38 anos",
+        "cpf": "67890123455",
+        "pais": "Brasileiro",
+        "estado": "Estado - Ceará",
+        "cidade": "Cidade - Fortaleza"
+    },
+    {
+        "imagem": "<img src='https://static.vecteezy.com/ti/vetor-gratis/p3/4773704-rosto-de-uma-garota-com-um-sorriso-lindo-um-avatar-feminino-para-um-site-e-rede-social-vetor.jpg' width='600px'>",
+        "nome": "Gabriela Lima",
+        "idade": "22 anos",
+        "cpf": "78901234566",
+        "pais": "Brasileira",
+        "estado": "Estado - Pernambuco",
+        "cidade": "Cidade - Recife"
+    },
+    {
+        "imagem": "<img src='https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-male-avatar-image-in-the-circle-image_2908803.jpg' width='600px'>",
+        "nome": "Henrique Souza",
+        "idade": "27 anos",
+        "cpf": "89012345677",
+        "pais": "Brasileiro",
+        "estado": "Estado - Rio Grande do Sul",
+        "cidade": "Cidade - Porto Alegre"
+    },
+    {
+        "imagem": "<img src='https://static.vecteezy.com/ti/vetor-gratis/p3/4773704-rosto-de-uma-garota-com-um-sorriso-lindo-um-avatar-feminino-para-um-site-e-rede-social-vetor.jpg' width='600px'>",
+        "nome": "Isabela Santos",
+        "idade": "30 anos",
+        "cpf": "90123456788",
+        "pais": "Brasileira",
+        "estado": "Estado - São Paulo",
+        "cidade": "Cidade - Campinas"
+    },
+    {
+        "imagem": "<img src='https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-male-avatar-image-in-the-circle-image_2908803.jpg' width='600px'>",
+        "nome": "João Pedro",
+        "idade": "35 anos",
+        "cpf": "01234567899",
+        "pais": "Brasileiro",
+        "estado": "Estado - Espírito Santo",
+        "cidade": "Cidade - Vitória"
+    },
+    {
+        "imagem": "<img src='https://static.vecteezy.com/ti/vetor-gratis/p3/4773704-rosto-de-uma-garota-com-um-sorriso-lindo-um-avatar-feminino-para-um-site-e-rede-social-vetor.jpg' width='600px'>",
+        "nome": "Larissa Rocha",
+        "idade": "26 anos",
+        "cpf": "12345098761",
+        "pais": "Brasileira",
+        "estado": "Estado - Tocantins",
+        "cidade": "Cidade - Palmas"
+    },
+    {
+        "imagem": "<img src='https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-male-avatar-image-in-the-circle-image_2908803.jpg' width='600px'>",
+        "nome": "Marcelo Ferreira",
+        "idade": "40 anos",
+        "cpf": "23456109872",
+        "pais": "Brasileiro",
+        "estado": "Estado - Amazonas",
+        "cidade": "Cidade - Manaus"
+    }
+]
